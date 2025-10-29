@@ -3,8 +3,11 @@ Requirements Elicitation Lead:
 1- Requirement Elicitation Techniques Used:
 
 1- Brainstorming session
+
 Purpose: to collect requirements, and technical considerations.
+
 Summery: a half hour session meant to discuss what functionalities the system should provide and how it would help users.
+
 Key Idea’s:
 1-	Must include VIN and plate number lookup.
 2-	Should show car history, including damage, fines, and repairs.
@@ -13,7 +16,8 @@ Key Idea’s:
 
 2- Stakeholder Interviews:
 
-Purpose: To understand the expectations and needs of potential system users.
+Purpose: 
+To understand the expectations and needs of potential system users.
 
 Participants: 
 1-	Car buyer 
@@ -38,7 +42,7 @@ Agenda:
 2.	List all user expectations and technical needs.
 3.	Group ideas into requirement categories.
 4.	Discussing feasibility and prioritizing requirements.
-5.	
+
 Collected Ideas:
 1-	VIN & plate number lookup.
 2-	Display car’s past damages and unpaid fines.
@@ -48,7 +52,6 @@ Collected Ideas:
 6-	Predict approximate car value using AI.
 
 3- Raw requirements list:
-
 Functional	 The system shall allow users to input VIN and plate number.
 
 Functional	 The system shall display all available car records (accidents, fines, repairs).
