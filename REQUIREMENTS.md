@@ -12,15 +12,19 @@ Key Idea’s:
 4-	Must ensure privacy and secure data access.
 
 2- Stakeholder Interviews:
+
 Purpose: To understand the expectations and needs of potential system users.
+
 Participants: 
 1-	Car buyer 
 2-  Car selle
+
 Questions asked:
 1-	What are the challenges that you experience when checking a car’s background?
 2-	What kind of car information would make you trust the system?
 3-	What makes you doubt the accuracy of current car check systems?
 4-	How useful would a price estimation feature be?
+
 Outcomes:
 1-	Buyers want quick, clear, and trustworthy car records.
 2-	Resellers value transparency to build customer trust.
@@ -34,6 +38,7 @@ Agenda:
 2.	List all user expectations and technical needs.
 3.	Group ideas into requirement categories.
 4.	Discussing feasibility and prioritizing requirements.
+5.	
 Collected Ideas:
 1-	VIN & plate number lookup.
 2-	Display car’s past damages and unpaid fines.
@@ -43,12 +48,20 @@ Collected Ideas:
 6-	Predict approximate car value using AI.
 
 3- Raw requirements list:
+
 Functional	 The system shall allow users to input VIN and plate number.
+
 Functional	 The system shall display all available car records (accidents, fines, repairs).
+
 Functional	 The system shall securely store and retrieve car information.	
+
 Functional	  The system shall provide readable car history summaries.	
+
 Functional	  The system shall estimate the car’s current market value using AI.	
+
 Non-Functional  The system shall ensure privacy and data protection.	
+
 Non-Functional  The interface shall be simple and user-friendly.	
+
 Non-Functional  The system shall be updated regularly to maintain accuracy.	
 
