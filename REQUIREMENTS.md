@@ -12,8 +12,7 @@ Key Idea’s:
 4-	Must ensure privacy and secure data access.
 
 2- Stakeholder Interviews:
-Purpose: 
-To understand the expectations and needs of potential system users.
+Purpose: To understand the expectations and needs of potential system users.
 Participants: 
 1-	Car buyer 
 2-  Car selle
@@ -29,6 +28,7 @@ Outcomes:
 4-	Both groups appreciated the idea of AI price estimation.
 
 2- Team Brainstorming Process Documentation:
+
 Agenda:
 1.	Define project purpose and scope.
 2.	List all user expectations and technical needs.
