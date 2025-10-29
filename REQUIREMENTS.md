@@ -15,7 +15,7 @@ Key Idea’s:
 Purpose: To understand the expectations and needs of potential system users.
 Participants: 
 1-	Car buyer 
-2-	2- Car seller
+2-  Car selle
 Questions asked:
 1-	What are the challenges that you experience when checking a car’s background?
 2-	What kind of car information would make you trust the system?
