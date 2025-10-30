@@ -45,19 +45,19 @@ Collected Ideas:
 3- Raw requirements list:
 Functional	 The system shall allow users to input VIN and plate number.
 
-Functional	 The system shall display all available car records (accidents, fines, repairs).
+ The system shall display all available car records (accidents, fines, repairs).
 
-Functional	 The system shall securely store and retrieve car information.	
+ The system shall securely store and retrieve car information.	
 
-Functional	  The system shall provide readable car history summaries.	
+ The system shall provide readable car history summaries.	
 
-Functional	  The system shall estimate the car’s current market value using AI.	
+ The system shall estimate the car’s current market value using AI.	
 
-Non-Functional  The system shall ensure privacy and data protection.	
+ The system shall ensure privacy and data protection.	
 
-Non-Functional  The interface shall be simple and user-friendly.	
+ The interface shall be simple and user-friendly.	
 
-Non-Functional  The system shall be updated regularly to maintain accuracy.	
+ The system shall be updated regularly to maintain accuracy.	
 
 
  Requirements Classification Specialist:
