@@ -60,7 +60,7 @@ Functional	 The system shall allow users to input VIN and plate number.
  The system shall be updated regularly to maintain accuracy.	
 
 
- Requirements Classification Specialist:
+2- Requirements Classification Specialist:
 
 
 | ID | Requirement Description | Type | Level | Table-Like |
