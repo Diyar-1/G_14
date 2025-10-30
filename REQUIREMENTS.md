@@ -66,12 +66,19 @@ Functional	 The system shall allow users to input VIN and plate number.
 | ID | Requirement Description | Type | Level | Table-Like |
 
 | FR-01 | The system shall allow users to enter a Vehicle Identification Number (VIN) and plate number. | Functional | User Requirement |
+
 | FR-02 | The system shall display all available car records such as accidents, fines, and repairs. | Functional | User Requirement |
+
 | FR-03 | The system shall securely store and retrieve car information. | Functional | System Requirement |
+
 | FR-04 | The system shall provide a clear and readable summary of the car’s history. | Functional | User Requirement |
+
 | FR-05 | The system shall estimate the car’s current market value using AI. | Functional | System Requirement |
+
 | NFR-01 | The system shall ensure privacy and protect user and vehicle data. | Non-Functional | System Requirement |
+
 | NFR-02 | The interface shall be simple, intuitive, and easy to navigate. | Non-Functional | User Requirement |
+
 | NFR-03 | The system shall receive regular updates to maintain accuracy and reliability. | Non-Functional | System Requirement |
 
 
