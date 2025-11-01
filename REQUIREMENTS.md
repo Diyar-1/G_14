@@ -2,22 +2,27 @@ Requirements Elicitation Lead:
 
 1- Requirement Elicitation Techniques Used:
 
-1- Brainstorming session
-Purpose: to collect requirements, and technical considerations.
-Summery: a half hour session meant to discuss what functionalities the system should provide and how it would help users.
+1- Surveys:
+Purpose: Collecting peoples Experience with Checking a Car’s History.
 
-Key Idea’s:
-1-	Must include VIN and plate number lookup.
-2-	Should show car history, including damage, fines, and repairs.
-3-	Should provide price estimation using AI.
-4-	Must ensure privacy and secure data access.
+QUestions asked:
+1- Have you ever bought or sold a used car?
+2- How did you check the car’s history?
+3- How confident are you that the information sellers provide about a car is accurate?
+4- What problems have you faced when trying to verify a car’s history?
+
+Outcomes:
+1- The majority have bought a car with a minority selling them.
+2- Some have asked the seller directly and taken it to mechanic with the others only doing one of the two.
+3- The majoirty tend to distrust the sellers honesty when it comes to the information about the car.
+4- People found it hard to get accurate information with most finding inaccurate and unclear information about the car, missing records, sometimes even false ones.
 
 2- Stakeholder Interviews:
 Purpose: To understand the expectations and needs of potential system users.
 
 Participants: 
 1-	Car buyer 
-2-  Car selle
+2- Car seller
 
 Questions asked:
 1-	What are the challenges that you experience when checking a car’s background?
@@ -48,7 +53,7 @@ Collected Ideas:
 6-	Predict approximate car value using AI.
 
 3- Raw requirements list:
-Functional	 The system shall allow users to input VIN and plate number.
+ The system shall allow users to input VIN and plate number.
 
  The system shall display all available car records (accidents, fines, repairs).
 
