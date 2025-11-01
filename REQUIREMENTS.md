@@ -52,26 +52,21 @@ Collected Ideas:
 5-	Simple, clear, and user-friendly design.
 6-	Predict approximate car value using AI.
 
-3- Raw requirements list:
- The system shall allow users to input VIN and plate number.
+3- Raw requirements list: 
 
- The system shall display all available car records (accidents, fines, repairs).
+The system shall allow users to input VIN and plate number.
 
- The system shall securely store and retrieve car information.	
+The system shall display all available car records (accidents, fines, repairs).
 
- The system shall provide readable car history summaries.	
+The system shall receive all records from the traffic police database to ensure data accuracy.
 
- The system shall estimate the car’s current market value using AI.	
+The system shall ensure data security.
 
- The system shall ensure privacy and data protection.	
+The system shall estimate the car’s current market value using AI.
 
- The interface shall be simple and user-friendly.	
-
- The system shall be updated regularly to maintain accuracy.	
-
+The interface shall be simple and user-friendly.
 
 2- Requirements Classification Specialist:
-
 
 | Requirement Description | Type | Level |
 
@@ -79,17 +74,14 @@ Collected Ideas:
 
 | The system shall display all available car records such as accidents, fines, and repairs. | Functional | User Requirement |
 
-| The system shall securely store and retrieve car information. | Functional | System Requirement |
+| The system shall receive all records from the traffic police database to ensure data accuracy. | Functional | System Requirement |
 
-| The system shall provide a clear and readable summary of the car’s history. | Functional | User Requirement |
+| The system shall ensure data security. | Non-Functional | System Requirement |
 
 | The system shall estimate the car’s current market value using AI. | Functional | System Requirement |
 
-| The system shall ensure privacy and protect user and vehicle data. | Non-Functional | System Requirement |
+| The interface shall be simple and user-friendly.  | Functional | System Requirement |
 
-| The interface shall be simple, intuitive, and easy to navigate. | Non-Functional | User Requirement |
-
-| The system shall receive regular updates to maintain accuracy and reliability. | Non-Functional | System Requirement |
 
 
 
