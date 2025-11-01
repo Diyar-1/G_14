@@ -5,7 +5,7 @@ Requirements Elicitation Lead:
 1- Surveys:
 Purpose: Collecting peoples Experience with Checking a Car’s History.
 
-QUestions asked:
+Questions asked:
 1- Have you ever bought or sold a used car?
 2- How did you check the car’s history?
 3- How confident are you that the information sellers provide about a car is accurate?
