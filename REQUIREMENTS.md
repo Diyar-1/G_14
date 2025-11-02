@@ -66,6 +66,8 @@ The system shall estimate the car’s current market value using AI.
 
 The interface shall be simple and user-friendly.
 
+The system shall allow the owner of the car to add records verified via receipts.
+
 2- Requirements Classification Specialist:
 
 | Requirement Description | Type | Level |
@@ -76,12 +78,9 @@ The interface shall be simple and user-friendly.
 
 | The system shall receive all records from the traffic police database to ensure data accuracy. | Functional | System Requirement |
 
-| The system shall ensure data security. | Non-Functional | System Requirement |
-
 | The system shall estimate the car’s current market value using AI. | Functional | System Requirement |
 
 | The interface shall be simple and user-friendly.  | Functional | System Requirement |
 
-
-
+| The system shall ensure data security. | Non-Functional | System Requirement |
 
