@@ -21,7 +21,7 @@ Outcomes:
 Purpose: To understand the expectations and needs of potential system users.
 
 Participants: 
-1-	Car buyer 
+1- Car buyer 
 2- Car seller
 
 Questions asked:
@@ -32,17 +32,17 @@ Questions asked:
 
 Outcomes:
 1-	Buyers want quick, clear, and trustworthy car records.
-2-	Resellers value transparency to build customer trust.
+2- Resellers value transparency to build customer trust.
 3-	Both groups emphasized the need for reliable data.
 4-	Both groups appreciated the idea of AI price estimation.
 
 2- Team Brainstorming Process Documentation:
 
 Agenda:
-1.	Define project purpose and scope.
-2.	List all user expectations and technical needs.
-3.	Group ideas into requirement categories.
-4.	Discussing feasibility and prioritizing requirements.
+1- Define project purpose and scope.
+2- List all user expectations and technical needs.
+3- Group ideas into requirement categories.
+4- Discussing feasibility and prioritizing requirements.
 
 Collected Ideas:
 1-	VIN & plate number lookup.
@@ -56,9 +56,11 @@ Collected Ideas:
 
 The system shall allow users to input VIN and plate number.
 
-The system shall display all available car records (accidents, fines, repairs).
+The system shall display all the car's records (accidents, fines, repairs).
 
 The system shall receive all records from the traffic police database to ensure data accuracy.
+
+The system shall allow the owner of the car to add additional records verified via receipts.
 
 The system shall ensure data security.
 
@@ -66,21 +68,26 @@ The system shall estimate the car’s current market value using AI.
 
 The interface shall be simple and user-friendly.
 
-The system shall allow the owner of the car to add records verified via receipts.
 
 2- Requirements Classification Specialist:
 
-| Requirement Description | Type | Level |
+The requirements will be classified in this order:
+1- The requirement
+2- Type of functionality
+3- Type of Requirement
 
-| The system shall allow users to enter a Vehicle Identification Number (VIN) and plate number. | Functional | User Requirement |
+Requirement Table:
 
-| The system shall display all available car records such as accidents, fines, and repairs. | Functional | User Requirement |
+1- The system shall allow users to input VIN and plate number/ Functional/ User Requirement
 
-| The system shall receive all records from the traffic police database to ensure data accuracy. | Functional | System Requirement |
+2- The system shall display all of the car's records/ Functional/ User Requirement
 
-| The system shall estimate the car’s current market value using AI. | Functional | System Requirement |
+3- The system shall receive all records from the traffic police database to ensure data accuracy/ Functional/ System Requirement
 
-| The interface shall be simple and user-friendly.  | Functional | System Requirement |
+4- The system shall allow the owner of the car to add additional records verified via receipts/ Functional/ User Requirement
 
-| The system shall ensure data security. | Non-Functional | System Requirement |
+5- The system shall ensure data security/ Non-Functional/ System Requirement
 
+6- The system shall estimate the car’s current market value using AI/ Functional/ User Requirement
+
+7- The interface shall be simple and user-friendly/ Non-Functional/ System Requirement
