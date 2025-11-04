@@ -14,7 +14,7 @@ Questions asked:
 Outcomes:
 1- The majority have bought a car with a minority selling them.
 2- Some have asked the seller directly and taken it to mechanic with the others only doing one of the two.
-3- The majoirty tend to distrust the sellers honesty when it comes to the information about the car.
+3- The majority tend to distrust the sellers honesty when it comes to the information about the car.
 4- People found it hard to get accurate information with most finding inaccurate and unclear information about the car, missing records, sometimes even false ones.
 
 2- Stakeholder Interviews:
