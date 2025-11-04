@@ -1,6 +1,7 @@
 CAR INSPECTOR USE CASE DOCUMENTATION 
 
-EXTERNAL USERS OR SYSTEMS; 
+EXTERNAL USERS OR SYSTEMS;
+
 • USER (Owner, buyer); 
 − Can create account for using app 
 − Can log in to account if there exists 
@@ -10,10 +11,12 @@ EXTERNAL USERS OR SYSTEMS;
 − Allowed to only check fines and not allowed to modify it 
 − Allowed to show the car’s trusted estimated price provided by app  
 − Users can give feedback for app to have better experience 
+
 • POLICE STATION; 
 −  Can add vehicle information (Registration details, Plate number, VIN number) 
 −  Can add the accident reports of car’s 
 −  Can add or delete fines 
+
 • SYSTEM ADMINISTRATION; 
 − System admin can manage users 
 − Can keep application updated to keep application from performance lose and 
@@ -21,20 +24,12 @@ security concerns
 − Can review system feed backs to optimize and fix system issues 
 − Can check the pricing mechanism 
  
- 
- 
 • MECHANICS / AUTHORIZED DEALERSHIP SERVICES; 
- 
- 
 − Services can create an authorized account 
 − Services can log in to authorized account if there exists 
 − Services can add maintenance or fixing records they have done to the car 
  
- 
- 
 • ARTIFICAL INTELLIGANCE 
- 
- 
 − AI can check and store car’s specifications with history to search within app 
 and online sources to provide estimated market value for cars to provide to 
 the user.        
