@@ -38,13 +38,9 @@ security concerns
 − AI can check and store car’s specifications with history to search within app 
 and online sources to provide estimated market value for cars to provide to 
 the user.        
-                             
- 
- 
-                     
-                                    INTERNAL SYSTEMS 
- 
- 
+
+Internal Systems
+                                  
 Log in; System will check if the account that user tries to login exists or not. If it exists user 
 will log in but if it doesn't exist user will get an error message  
  
